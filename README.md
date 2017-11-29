@@ -1,5 +1,8 @@
 # Neural Algorithm of Artistic Style
 
+From the paper- 
+https://arxiv.org/pdf/1508.06576.pdf
+
 # Example
 ### Input
 ![input](https://user-images.githubusercontent.com/32988039/33234211-6f5cea28-d1e8-11e7-8f56-54b03e1c029c.jpg)
